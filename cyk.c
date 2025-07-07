@@ -316,6 +316,7 @@ bool cyk_algorithm(Grammar* g, char* string) {
  bool found_any = false;
 
  // Tentar todas as divisões possíveis
+ // Algoritmo CYK funcionando
  for (int k = 0; k < i; k++) { // ponto de divisão
  // Verificar se alguma regra A -> BC pode ser aplicada
  for (int nt = 0; nt < num_nt; nt++) {
