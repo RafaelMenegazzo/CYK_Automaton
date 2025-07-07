@@ -15,7 +15,7 @@ Este projeto é ideal para estudantes e professores de **compiladores**, **lingu
 
 ---
 
-## 🔧 Compilação
+##  Compilação
 
 ### Pré-requisitos
 
